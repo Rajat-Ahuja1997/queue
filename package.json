@@ -12,5 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rajat-Ahuja1997/queue.git"
   }
 }
