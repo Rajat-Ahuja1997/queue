@@ -1,6 +1,6 @@
 {
   "name": "efficient-queue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,11 @@
     "efficient-queue",
     "efficient",
     "data structure",
-    "efficient data structure"
+    "efficient data structure",
+    "queueing",
+    "FIFO",
+    "enqueue",
+    "dequeue"
   ],
   "author": "Rajat Ahuja",
   "license": "ISC",
