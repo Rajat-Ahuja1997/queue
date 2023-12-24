@@ -13,10 +13,10 @@ A simple and efficient implementation of a queue data structure in TypeScript. T
 To install the package, run the following command in your project directory:
 
 ```bash
-npm install queue
+npm install efficient-queue
 ```
 
-## Usage Exampls
+## Usage Examples
 ```
 import { Queue } from 'queue';
 
@@ -41,3 +41,5 @@ console.log(queue.isEmpty()); // false
 // Checking the length of the queue
 console.log(queue.length()); // 1
 ```
+
+## Keywords
